@@ -2,7 +2,7 @@
 1. [PaddleOCR文字识别C#部署-1](https://blog.csdn.net/ch_ccc/article/details/113857304?spm=1001.2014.3001.5501)
 2. [PaddleOCR文字识别C#部署-2](https://blog.csdn.net/ch_ccc/article/details/114386308)
 3. [PaddleOCR文字识别C#部署-3](https://blog.csdn.net/ch_ccc/article/details/114573779)
-`审核人审核文章带点脑子。`
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210324171737288.gif#pic_center)
 
 
